@@ -1,0 +1,10 @@
+portfolio.html .body {
+    display: inline-flex;
+   align-items: baseline; 
+   align-content: center;
+}
+
+portfolio.html .card {
+    max-width: fit-content;
+    max-height: max-content;
+}
